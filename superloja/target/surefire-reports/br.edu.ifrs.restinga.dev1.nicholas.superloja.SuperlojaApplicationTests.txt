@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.edu.ifrs.restinga.dev1.nicholas.superloja.SuperlojaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 51.175 s - in br.edu.ifrs.restinga.dev1.nicholas.superloja.SuperlojaApplicationTests

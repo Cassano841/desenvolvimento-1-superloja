@@ -1,0 +1,16 @@
+br\edu\ifrs\restinga\dev1\nicholas\superloja\modelo\entidade\Fornecedor.class
+br\edu\ifrs\restinga\dev1\nicholas\superloja\modelo\dao\FornecedorDAO.class
+br\edu\ifrs\restinga\dev1\nicholas\superloja\modelo\dao\ProdutoDAO.class
+br\edu\ifrs\restinga\dev1\nicholas\superloja\controller\Produtos.class
+br\edu\ifrs\restinga\dev1\nicholas\superloja\erro\NaoEncontrado.class
+br\edu\ifrs\restinga\dev1\nicholas\superloja\modelo\entidade\Embalagem.class
+br\edu\ifrs\restinga\dev1\nicholas\superloja\SuperlojaApplication.class
+br\edu\ifrs\restinga\dev1\nicholas\superloja\erro\RequisicaoInvalida.class
+br\edu\ifrs\restinga\dev1\nicholas\superloja\modelo\dao\EmbalagemDAO.class
+br\edu\ifrs\restinga\dev1\nicholas\superloja\modelo\entidade\Genero.class
+br\edu\ifrs\restinga\dev1\nicholas\superloja\modelo\entidade\Modelo.class
+br\edu\ifrs\restinga\dev1\nicholas\superloja\modelo\entidade\Produto.class
+br\edu\ifrs\restinga\dev1\nicholas\superloja\controller\Fornecedores.class
+br\edu\ifrs\restinga\dev1\nicholas\superloja\controller\Generos.class
+br\edu\ifrs\restinga\dev1\nicholas\superloja\modelo\dao\GeneroDAO.class
+br\edu\ifrs\restinga\dev1\nicholas\superloja\modelo\dao\ModeloDAO.class
